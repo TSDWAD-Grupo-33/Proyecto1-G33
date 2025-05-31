@@ -32,3 +32,5 @@
 - Gestión de datos
 - Visualización de estadísticas
 
+- veronica gagliardi
+
