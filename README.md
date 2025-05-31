@@ -8,11 +8,11 @@
 
 | Nombre                                | Habilidades o conocimientos            |
 | ------------------------------------- | -------------------------------------- |
-| Diaz Roldan, Juan Gabriel             | Manejo básico de Git y GitHub básico   |
-| Gagliardi, Verónica Analía            | Manejo básico de Git y GitHub básico   |
-| Gonzalez Martinez, Juan Carlos Anibal | Manejo básico de Git y GitHub básico   |
-| Molina, Tobias                        | Manejo básico de Git y GitHub básico   |
-| Nuñez Alfaro, Daniela Sofia           | Manejo básico de Git y GitHub básico   | 
+| Diaz Roldan, Juan Gabriel             | Manejo básico de Git y GitHub   |
+| Gagliardi, Verónica Analía            | Manejo básico de Git y GitHub   |
+| Gonzalez Martinez, Juan Carlos Anibal | Manejo básico de Git y GitHub   |
+| Molina, Tobias                        | Manejo básico de Git y GitHub   |
+| Nuñez Alfaro, Daniela Sofia           | Manejo básico de Git y GitHub   | 
 
 ## 🌟 Objetivos
 
@@ -31,4 +31,3 @@
 - Registro de usuarios
 - Gestión de datos
 - Visualización de estadísticas
-
